@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.9" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《项目开发计划》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-i-0AQB-Qo:" language="zh-cn" productVersion="14.0.0" ?><?mso-application progid="InfoPath.Document"?><项目开发计划 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="" 项目标识="" version="1.0">
+		<状态与版本信息>
+			<文件状态>正在修改</文件状态>
+			<文件标识></文件标识>
+			<当前版本></当前版本>
+			<作者>
+				<姓名></姓名>
+				<学号></学号>
+				<团队></团队>
+			</作者>
+			<完成日期></完成日期>
+			<版本更新信息></版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员></使用人员>
+			<编写目的></编写目的>
+			<背景></背景>
+			<定义与缩写>
+				<术语></术语>
+				<解释></解释>
+			</定义与缩写>
+			<参考资料>
+				<条目></条目>
+			</参考资料>
+		</引言>
+	</首部>
+	<项目概述>
+		<工作内容></工作内容>
+		<主要参加人员></主要参加人员>
+		<产品>
+			<程序></程序>
+			<文件></文件>
+			<服务></服务>
+			<非移交的产品></非移交的产品>
+		</产品>
+		<验收标准></验收标准>
+		<完成项目的最迟期限>2018-11-15</完成项目的最迟期限>
+	</项目概述>
+	<实施计划>
+		<角色定义及分配><div xmlns="http://www.w3.org/1999/xhtml">
+<table tabIndex="-1" class="msoUcTable" style="BORDER-TOP-STYLE: none; WORD-WRAP: break-word; BORDER-LEFT-STYLE: none; WIDTH: 435pt; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none" borderColor="#000000" cellPadding="0" width="580" border="1">
+<colgroup>
+<col style="WIDTH: 48pt" width="64"/>
+<col style="WIDTH: 48pt" width="64"/>
+<col style="WIDTH: 339pt" width="452"/></colgroup>
+<tbody>
+<tr style="MIN-HEIGHT: 27.6pt">
+<td vAlign="middle"><font size="2" face="宋体">开发组</font></td>
+<td vAlign="middle"><font size="2" face="宋体">　</font></td>
+<td vAlign="middle"><font size="2" face="宋体"><br/> <br/></font></td></tr>
+<tr style="MIN-HEIGHT: 13.8pt">
+<td colSpan="2" vAlign="middle"><font size="2" face="宋体">组长：张芳梓</font></td>
+<td vAlign="middle"><font size="2" face="宋体">安排开发组工作</font></td></tr>
+<tr style="MIN-HEIGHT: 13.8pt">
+<td vAlign="middle"><font size="2" face="宋体">开发成员：</font></td>
+<td vAlign="middle"><font size="2" face="宋体">杨晨</font></td>
+<td vAlign="middle"><font size="2" face="宋体">进行需求分析；</font></td></tr>
+<tr style="MIN-HEIGHT: 41.4pt">
+<td vAlign="middle"><font size="2" face="宋体">　</font></td>
+<td vAlign="middle"><font size="2" face="宋体">樊毅</font></td>
+<td vAlign="middle"><font size="2" face="宋体"> 按软件开发计划进行开发，并记录相关数据，并进行相关文档的编写；<br/></font></td></tr>
+<tr style="MIN-HEIGHT: 13.8pt">
+<td vAlign="middle"><font size="2" face="宋体">　</font></td>
+<td vAlign="middle"><font size="2" face="宋体">刘梦秋</font></td>
+<td vAlign="middle"><font size="2" face="宋体">按软件开发计划进行开发，并记录相关数据，并进行相关文档的编写；</font></td></tr>
+<tr style="MIN-HEIGHT: 13.8pt">
+<td vAlign="middle"><font size="2" face="宋体">　</font></td>
+<td vAlign="middle"><font size="2" face="宋体">张书博</font></td>
+<td vAlign="middle"><font size="2" face="宋体">进行需求分析；</font></td></tr>
+<tr style="MIN-HEIGHT: 14.4pt">
+<td vAlign="middle"><font size="2" face="宋体">　</font></td>
+<td vAlign="middle"><font size="2" face="宋体">张斯禹</font></td>
+<td vAlign="middle"><font size="2" face="宋体">按软件开发计划进行开发，并记录相关数据，并进行相关文档的编写；</font></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></角色定义及分配>
+		<过程域方法与工具><div xmlns="http://www.w3.org/1999/xhtml">IDEA </div>
+<div xmlns="http://www.w3.org/1999/xhtml">MySQL 5.7</div>
+<div xmlns="http://www.w3.org/1999/xhtml">Tomcat 8.0</div></过程域方法与工具>
+		<任务与进度>
+			<任务与进度计划></任务与进度计划>
+			<甘特图></甘特图>
+		</任务与进度>
+		<预算><div xmlns="http://www.w3.org/1999/xhtml">逐项列出本开发项目所需要的劳务（包括人员的数量和时间）以及经费的预算（包括办公费、差旅费、机时费、资料费、通讯设备和专用设备的租金等）和来源。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">分项报价表格式：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">序号    名称    　　　说明    　　　金额    　　　　总计    　　    来源　　　　　　    备注</div>
+<div xmlns="http://www.w3.org/1999/xhtml">1    软件开发          　　　　　　7万　　　　　　  7万          北京信息科技大学</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2    系统软件购置      　　　　　　3万          　 ３万          北京信息科技大学</div>
+<div xmlns="http://www.w3.org/1999/xhtml">3    人员培训          　　　　　　2万　　　　　　  2万          北京信息科技大学</div>
+<div xmlns="http://www.w3.org/1999/xhtml">合计：12万</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">以上价格表单位均为RMB元</div></预算>
+		<关键问题>需求的明晰和确定，项目进度的合理安排</关键问题>
+	</实施计划>
+	<支持条件>
+		<计算机系统支持><div xmlns="http://www.w3.org/1999/xhtml">运行该软件系统所需要的硬件设备包括服务器和开发机，要求满足（最低配置）：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">一、服务器部分:</div>
+<div xmlns="http://www.w3.org/1999/xhtml">1.硬件：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">a.内存不小于2G</div>
+<div xmlns="http://www.w3.org/1999/xhtml">b.20Gb以空余硬盘空间</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.软件：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">a.Java运行环境</div>
+<div xmlns="http://www.w3.org/1999/xhtml">b.mysql 5.7数据库</div>
+<div xmlns="http://www.w3.org/1999/xhtml">c.apache tomcat 8.0</div>
+<div xmlns="http://www.w3.org/1999/xhtml">d.centos操作系统</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">二.开发机部分：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">1.硬件：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">a.主流处理器，内存不小于4Gb，</div>
+<div xmlns="http://www.w3.org/1999/xhtml">b.20G以上硬盘空间</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.软件：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">a.eclipse等支持Java的IDE；</div>
+<div xmlns="http://www.w3.org/1999/xhtml">b.git环境</div>
+<div xmlns="http://www.w3.org/1999/xhtml">c.JDK 1.8环境</div>
+<div xmlns="http://www.w3.org/1999/xhtml">d.maven 环境</div></计算机系统支持>
+		<需由用户承担的工作>考虑到用户在软件项目开发方面的非专业性，用户尽可能明确和肯定地表达出关于系统的需求。</需由用户承担的工作>
+		<由外单位提供的条件>相应服务API接口</由外单位提供的条件>
+	</支持条件>
+	<专题计划要点>无</专题计划要点>
+</项目开发计划>
