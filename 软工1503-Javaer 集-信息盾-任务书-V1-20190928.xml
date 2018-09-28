@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.4" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\软件项目实践\文档模板\《任务书》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-kQV-Qo:" language="zh-cn" productVersion="14.0.0" ?><?mso-application progid="InfoPath.Document"?><任务书 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="信息盾" 项目标识="r1503" version="1.0">
+		<状态与版本信息>
+			<文件状态></文件状态>
+			<文件标识></文件标识>
+			<当前版本></当前版本>
+			<作者>
+				<姓名>刘天心</姓名>
+				<学号>2015011424</学号>
+				<团队>Javaer集</团队>
+			</作者>
+			<完成日期></完成日期>
+			<版本更新信息></版本更新信息>
+		</状态与版本信息>
+		<引言>
+			<使用人员></使用人员>
+			<编写目的></编写目的>
+			<背景></背景>
+		</引言>
+	</首部>
+	<下达人>Javaer集</下达人>
+	<下达时间>2018-09-28</下达时间>
+	<项目经理>刘天心</项目经理>
+	<项目计划提交期限>2018-11-22</项目计划提交期限>
+	<送达人>Javaer集团队成员</送达人>
+	<项目目标>
+		<目标条目>构建一个快递服务软件系统</目标条目>
+	</项目目标>
+	<项目范围>
+		<项目性质>合同软件项目</项目性质>
+		<项目组成><div xmlns="http://www.w3.org/1999/xhtml">2.2.1 快递服务网站</div>
+<div xmlns="http://www.w3.org/1999/xhtml">      用户可以根据单号查询物流状态，对服务进行评价并显示</div>
+<div xmlns="http://www.w3.org/1999/xhtml">      管理员可以对工作人员和用户进行操作，查询快递单。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">2.2.2 快递服务APP</div>
+<div xmlns="http://www.w3.org/1999/xhtml">      用户可以根据单号查询物流状态，对服务进行评价，</div>
+<div xmlns="http://www.w3.org/1999/xhtml">      进行快递签收或确认，和快递员消息沟通，计算寄件费用</div>
+<div xmlns="http://www.w3.org/1999/xhtml">      管理员可以对工作人员和用户进行操作，查询快递单。</div>
+<div xmlns="http://www.w3.org/1999/xhtml">      后台对软件进行更新与升级操作。</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div></项目组成>
+		<项目要求><h3 style="MARGIN-BOTTOM: 13pt; FONT-WEIGHT: normal; PADDING-LEFT: 0cm; MARGIN-TOP: 13pt; LINE-HEIGHT: 173%; PADDING-RIGHT: 0cm" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font style="FONT-SIZE: 16pt" face="undefined"><font style="FONT-SIZE: 10.5pt">2.3.1<font style="FONT-SIZE: 10.5pt" face="宋体">：并发性要求</font></font></font></h3>
+<div style="MARGIN-BOTTOM: 0pt; PADDING-LEFT: 0cm; MARGIN-TOP: 0cm; PADDING-RIGHT: 0cm" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font style="FONT-SIZE: 10.5pt"><font style="FONT-SIZE: 10.5pt" face="undefined">            <font style="FONT-SIZE: 10.5pt" face="宋体">·同时能进行</font>50</font><font style="FONT-SIZE: 10.5pt" face="宋体">个会员登录。</font></font></div>
+<h3 style="MARGIN-BOTTOM: 13pt; FONT-WEIGHT: normal; PADDING-LEFT: 0cm; MARGIN-TOP: 13pt; LINE-HEIGHT: 173%; PADDING-RIGHT: 0cm" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font style="FONT-SIZE: 10.5pt" face="undefined"><font style="FONT-SIZE: 10.5pt">  2.3.2<font style="FONT-SIZE: 10.5pt" face="宋体">：时间要求</font></font></font></h3>
+<div style="MARGIN-BOTTOM: 0pt; PADDING-LEFT: 0cm; MARGIN-TOP: 0cm; PADDING-RIGHT: 0cm" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font style="FONT-SIZE: 10.5pt"><font style="FONT-SIZE: 10.5pt" face="undefined">            <font style="FONT-SIZE: 10.5pt" face="宋体">·一般查询响应时间：少于</font>2</font><font style="FONT-SIZE: 10.5pt" face="宋体">秒</font></font></div>
+<div style="MARGIN-BOTTOM: 0pt; PADDING-LEFT: 0cm; MARGIN-TOP: 0cm; PADDING-RIGHT: 0cm" align="justify" xmlns="http://www.w3.org/1999/xhtml"><font style="FONT-SIZE: 10.5pt"><font style="FONT-SIZE: 10.5pt" face="undefined">            <font style="FONT-SIZE: 10.5pt" face="宋体">·一般更新处理时间：少于</font>3</font><font style="FONT-SIZE: 10.5pt" face="宋体">秒</font></font><font style="FONT-SIZE: 10.5pt"><font style="FONT-SIZE: 10.5pt" face="undefined">         </font></font></div></项目要求>
+		<项目范围特殊说明>项目相关任何代码和文档，属团队机密，不可外泄。</项目范围特殊说明>
+	</项目范围>
+	<项目输入>
+		<输入条目>无</输入条目>
+	</项目输入>
+	<项目用户>使用平台所支持的物流的用户，平台管理员</项目用户>
+	<与其他项目关系>使用相应服务提供的API接口</与其他项目关系>
+	<项目限制>
+		<完成时间>2018-11-22</完成时间>
+		<资金>五十万</资金>
+		<资源><div xmlns="http://www.w3.org/1999/xhtml">人力资源：</div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">物力资源：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">有固定工作场所，每人都配有计算机（台式机/笔记本）一台，A4打印纸若干包，打印机一台，复印机一台</div>
+<div xmlns="http://www.w3.org/1999/xhtml">
+<table tabIndex="-1" class="msoUcTable" style="WORD-WRAP: break-word; BORDER-TOP: medium none; BORDER-RIGHT: medium none; WIDTH: 600px; BORDER-COLLAPSE: collapse; TABLE-LAYOUT: fixed; BORDER-BOTTOM: medium none; BORDER-LEFT: medium none" borderColor="buttontext" border="1">
+<colgroup>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 120px"/>
+<col style="WIDTH: 120px"/></colgroup>
+<tbody vAlign="top">
+<tr style="MIN-HEIGHT: 22px">
+<td>
+<div><font size="2" face="宋体">人员</font></div></td>
+<td>
+<div><font size="2" face="宋体">管理组</font></div></td>
+<td>
+<div><font size="2" face="宋体">开发组</font></div></td>
+<td>
+<div><font size="2" face="宋体">测试组</font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">用户组</font></div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">刘天心</font></div></td>
+<td>
+<div><font size="2" face="宋体">项目经理</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">张芳梓</font></div></td>
+<td style="BORDER-BOTTOM-COLOR: ">
+<div><font size="2" face="宋体">（兼）</font></div></td>
+<td style="BORDER-BOTTOM-COLOR: ">
+<div><font size="2" face="宋体">组长 需求评审，任务分派</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td style="BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体">曹启明</font></div></td>
+<td>
+<div><font size="2" face="宋体">（兼）</font></div></td>
+<td></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">组长 测试评审、文档撰写</font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">马朔</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">（兼）</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">组长 需求评审、文档撰写</font></div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">杨晨</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"><font size="2" face="宋体">进行需求分析</font></font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">樊毅</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">按软件开发计划进行开发，并记录相关数据，并进行相关文档的编写；</font></div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-TOP-COLOR: ; BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">刘梦秋</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-BOTTOM-COLOR: ">
+<div><font size="2" face="宋体">按软件开发计划进行开发，并记录相关数据，并进行相关文档的编写；</font></div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ">
+<div><font size="2" face="宋体">张斯禹</font></div></td>
+<td style="BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体">按软件开发计划进行开发，并记录相关数据，并进行相关文档的编写；</font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">张书博</font></div></td>
+<td style="BORDER-LEFT-COLOR: ; BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-BOTTOM-COLOR: ">
+<div><font size="2" face="宋体"><font size="2" face="宋体">进行需求分析</font></font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td style="BORDER-BOTTOM-COLOR: ">
+<div><font size="2" face="宋体">崔光松</font></div></td>
+<td style="BORDER-LEFT-COLOR: ; BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"><font size="2" face="宋体">进行需求分析</font></font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">测试用例设计</font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">需求评审</font></div></td></tr>
+<tr style="MIN-HEIGHT: 21px">
+<td>
+<div><font size="2" face="宋体">常继元</font></div></td>
+<td style="BORDER-LEFT-COLOR: ; BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">测试用例编写、文档撰写</font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr>
+<td>
+<div><font size="2" face="宋体">熊少辉</font></div></td>
+<td style="BORDER-TOP-COLOR: ; BORDER-LEFT-COLOR: ; BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-TOP-COLOR: ; BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">测试用例编写</font>、文档撰写</div></td>
+<td style="BORDER-TOP-COLOR: ; BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td>
+<div><font size="2" face="宋体">操凌云</font></div></td>
+<td style="BORDER-LEFT-COLOR: ; BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">测试用例编写、文档撰写</font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">武亦文</font></div></td>
+<td style="BORDER-TOP-COLOR: ; BORDER-LEFT-COLOR: ; BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-TOP-COLOR: ; BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">测试执行、测试报告撰写</font></div></td>
+<td style="BORDER-TOP-COLOR: ; BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td>
+<div><font size="2" face="宋体">端郑</font></div></td>
+<td style="BORDER-LEFT-COLOR: ; BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">测试执行、测试报告撰写</font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">陈思昊</font></div></td>
+<td style="BORDER-LEFT-COLOR: ; BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">测试执行、测试报告撰写</font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td>
+<div><font size="2" face="宋体">杨建浩</font></div></td>
+<td style="BORDER-LEFT-COLOR: ; BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">测试执行、测试报告撰写</font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td>
+<div><font size="2" face="宋体">窦树辉</font></div></td>
+<td style="BORDER-LEFT-COLOR: ; BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">测试执行、测试报告撰写</font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体">沈荣耀</font></div></td>
+<td style="BORDER-LEFT-COLOR: ; BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-BOTTOM-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">需求文档撰写、验收测试</font></div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td style="BORDER-BOTTOM-COLOR: ">
+<div><font size="2" face="宋体">徐政立</font></div></td>
+<td style="BORDER-LEFT-COLOR: ; BORDER-RIGHT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">需求文档撰写、验收测试</font></div></td></tr>
+<tr style="MIN-HEIGHT: 22px">
+<td>
+<div><font size="2" face="宋体">刘斌斌</font></div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-TOP-COLOR: ">
+<div><font size="2" face="宋体"></font> </div></td>
+<td>
+<div><font size="2" face="宋体"></font> </div></td>
+<td style="BORDER-LEFT-COLOR: ">
+<div><font size="2" face="宋体">需求文档撰写、验收测试</font></div></td></tr></tbody></table></div>
+<div xmlns="http://www.w3.org/1999/xhtml"> </div>
+<div xmlns="http://www.w3.org/1999/xhtml">财力资源：</div>
+<div xmlns="http://www.w3.org/1999/xhtml">一、定额流动资产：六十万元<br/>二、定额流动资产平均余额： 十万元<br/>三、固定资产（原值/净值）：四十万元<br/>四、经营资金<br/> 1.固定资金： 五十万元<br/> 2.流动资金： 六十万元<br/> 3.用于周转的自有资金： 十万元<br/>五、货币资金： 一十万元<br/>六、应收及预付款： 二十万元<br/>七、预收及预付款： 七十万元<br/>八、实际完成年产值： 一百万元<br/>九、实现利润总额： 五十万元<br/>十、反映企业管理水平指标<br/> 1.资金利用率： 70%<br/> 2.流动资金周转率： 3次<br/> 3.企业偿还能力：良好</div></资源>
+		<实现限制><div xmlns="http://www.w3.org/1999/xhtml">Java运行环境、mysql 5.7数据库、apache tomcat 8.0、centos操作系统、eclipse等支持Java的IDE、git环境、JDK 1.8环境、maven 环境</div></实现限制>
+	</项目限制>
+	<其他></其他>
+</任务书>
