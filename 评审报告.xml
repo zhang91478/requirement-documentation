@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><?mso-infoPathSolution solutionVersion="1.0.0.6" PIVersion="1.0.0.0" href="file:///D:\教学\软件项目实践\网站\公开\教学资源\文档模板\《评审报告》模板.xsn" name="urn:schemas-microsoft-com:office:infopath:-4QU--Qo:" language="zh-cn" productVersion="14.0.0" ?><?mso-application progid="InfoPath.Document"?><评审报告 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xd="http://schemas.microsoft.com/office/infopath/2003">
+	<首部 项目名称="《基于Android的电子日记本App》" 项目标识="r1503" version="1.0">
+		<状态与版本信息>
+			<文件状态>正式发布</文件状态>
+			<文件标识>20181013</文件标识>
+			<当前版本>1.0</当前版本>
+			<作者>
+				<姓名>刘天心</姓名>
+				<学号>2015011424</学号>
+				<团队>Javaer集</团队>
+			</作者>
+			<完成日期>2018-10-13</完成日期>
+			<版本更新信息>1.0</版本更新信息>
+		</状态与版本信息>
+	</首部>
+	<标题>《基于Android的电子日记本App》软件需求规格说明书基线版评审报告</标题>
+	<组织名称>Javaer集</组织名称>
+	<评审种类>
+		<定期评审>1</定期评审>
+	</评审种类>
+	<主持人>刘天心</主持人>
+	<参加人>全体成员</参加人>
+	<地点>线上</地点>
+	<日期>2018-10-13</日期>
+	<提交内容><div xmlns="http://www.w3.org/1999/xhtml">《基于Android的电子日记本App》软件需求规格说明书基线版</div>
+<div xmlns="http://www.w3.org/1999/xhtml"><font size="2" face="宋体"></font> </div></提交内容>
+	<评审项与结论>
+		<要素>需求完整性，优先级，语义清晰，可测试性，约束</要素>
+		<评审结果>评审基本通过，需要少量修改</评审结果>
+		<问题和对策><div xmlns="http://www.w3.org/1999/xhtml">问题：需求没有唯一编号</div>
+<div xmlns="http://www.w3.org/1999/xhtml">对策：进行编号</div></问题和对策>
+	</评审项与结论>
+	<总结>用户需求在SRS中体现完整，对需求进行了优先级排序，经用户组审核语义没有歧义，性能及功能可测试，对系统有约束。</总结>
+	<签字>刘天心，马朔，张芳梓</签字>
+	<附件>
+		<其他材料>无</其他材料>
+		<评审记录>无</评审记录>
+	</附件>
+</评审报告>
